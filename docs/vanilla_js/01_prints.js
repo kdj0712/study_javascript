@@ -1,27 +1,27 @@
 let Name = "DeokJaeKim";
 // undefined
-console.log(Name)
+console.log(Name);
 // VM243:1 DeokJaeKim
 // undefined
-let welcome = 'Hello World!'
+let welcome = 'Hello World!';
 // undefined
-welcome
+welcome;
 // 'Hello World!'
-let numbers = 55
+let numbers = 55;
 // undefined
-numbers
+numbers;
 // 55
-let concat = 'String:'+welcome+',Number:'+numbers
+let concat = 'String:'+welcome+',Number:'+numbers;
 // undefined
-concat
+concat;
 // 'String:Hello World!,Number:55'
-alert(concat)
+alert(concat);
 // undefined
-`String : ${welcome}, Number : ${numbers}`
+`String : ${welcome}, Number : ${numbers}`;
 // 'String : Hello World!, Number : 55'
-let concat_tilt = `String : ${welcome}, Number : ${numbers}`
+let concat_tilt = `String : ${welcome}, Number : ${numbers}`;
 // undefined
-concat_tilt
+concat_tilt;
 // 'String : Hello World!, Number : 55'
-console.log(concat_tilt)
+console.log(concat_tilt);
 // VM1442:1 String : Hello World!, Number : 55
